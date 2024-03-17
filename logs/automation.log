@@ -62,3 +62,6 @@
 16:01:40.089 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
 16:01:40.090 [main] DEBUG - Parsing relationship: /_rels/.rels
 16:01:40.105 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:08:59.948 [main] INFO  - Goto my account-->Click on Login.. 
+16:09:00.552 [main] INFO  - Entering email and password.. 
+16:09:01.524 [main] INFO  - clicked on login button...

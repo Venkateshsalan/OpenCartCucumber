@@ -36,7 +36,7 @@ public class BaseClass {
 			} else {
 			    System.out.println("No matching OS..");
 			      }
-			//browser
+			//browser - chrome
 			switch (getProperties().getProperty("browser").toLowerCase()) {
 			    case "chrome":
 			        capabilities.setBrowserName("chrome");
